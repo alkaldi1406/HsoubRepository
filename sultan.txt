@@ -1,0 +1,13 @@
+رفع الملف 
+git add "sultan.txt"
+
+لتاكد من الحفظ 
+
+git status
+
+لتاكد من توثيق الملف
+git commit -m "added sultan"
+
+لرفع الملفات على موقع git hub
+
+ git push -u origin my-soso-branch
